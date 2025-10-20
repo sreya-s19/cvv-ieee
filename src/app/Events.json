@@ -76,6 +76,28 @@
       "borderColor": "#F97316",
       "gradient": "linear-gradient(180deg, rgb(115,115,115), #000)",
       "url": "https://example.com/"
+    },
+    {
+      "image": "https://i.pravatar.cc/300?img=55",
+      "title": "Pixels Prowess Clash",
+      "time": "10:00 AM - 4:10 PM",
+      "date": "16/02/2024",
+      "upcomingEvent": false,
+      "location": "Online",
+      "borderColor": "#0EA5A4",
+      "gradient": "linear-gradient(160deg, rgb(120,120,120), #000)",
+      "url": "https://drive.google.com/drive/folders/<placeholder>"      
+    },
+    {
+      "image": "https://i.pravatar.cc/300?img=44",
+      "title": "Two-Day Workshop on Hands-on Applications of Python Programming in Machine Learning",
+      "time": "10:00 AM - 4:00 PM",
+      "date": "02/02/2024 - 03/02/2024",
+      "upcomingEvent": false,
+      "location": "Chinmaya Vishwa Vidyapeeth, Ernakulam, Kerala",
+      "borderColor": "#0B74DE",
+      "gradient": "linear-gradient(150deg, rgb(100,130,200), #000)",
+      "url": "TBD"
     }
   ]
 }
